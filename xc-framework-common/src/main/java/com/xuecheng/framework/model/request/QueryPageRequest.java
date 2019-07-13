@@ -7,6 +7,6 @@ public class QueryPageRequest {
     private String siteId;
     private String pageId;
     private String pageName;
-    private String PageAliase;
+    private String pageAliase;
     private String templateId;
 }
