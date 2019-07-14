@@ -34,7 +34,6 @@ public class CmsPageImpl implements CmsPageService {
 
         }
         ExampleMatcher exampleMatcher = ExampleMatcher.matching().withMatcher("pageAliase", ExampleMatcher.GenericPropertyMatchers.contains());
-        System.out.println("queryResponseResult =" + queryResponseResult.getPageAliase());
 
         CmsPage cmsPage = new CmsPage();
         //别名查询
@@ -61,7 +60,7 @@ public class CmsPageImpl implements CmsPageService {
         if (size <= 0) {
             size = 20;
         }
-        Pageable pageable = PageRequest.of(page, size);
+        Pageable pageable = PageRequest.of(page, size, new Sort(Sort.Direction.DESC,"pageCreateTime"));
         Page<CmsPage> cmsPageList = cmsPageRepostitory.findAll(example, pageable);
         QueryResult<CmsPage> cmsPageQueryResult = new QueryResult<>();
         cmsPageQueryResult.setList(cmsPageList.getContent());
