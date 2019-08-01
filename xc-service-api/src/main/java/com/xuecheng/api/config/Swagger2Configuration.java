@@ -23,7 +23,12 @@ public class Swagger2Configuration {
                 .paths(PathSelectors.any())
                 .build();
     }
+    private  void zz(){
 
+    }
+    private void zz(int a){
+
+    }
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("学成网api文档")
