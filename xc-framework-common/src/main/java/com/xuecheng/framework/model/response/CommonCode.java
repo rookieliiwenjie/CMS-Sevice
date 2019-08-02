@@ -18,7 +18,6 @@ public enum CommonCode implements ResultCode{
     UNAUTHORISE(false,10002,"权限不足，无权操作！"),
     SERVER_ERROR(false,99999,"抱歉，系统繁忙，请稍后重试！"),
     UNSAVE(false,10002,"保存失败");
-
 //    private static ImmutableMap<Integer, CommonCode> codes ;
     //操作是否成功
     boolean success;

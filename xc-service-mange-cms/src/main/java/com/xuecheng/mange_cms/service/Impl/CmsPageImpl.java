@@ -2,7 +2,9 @@ package com.xuecheng.mange_cms.service.Impl;
 
 import com.xuecheng.api.config.api.CmsPageControllerApi;
 import com.xuecheng.framework.domain.cms.CmsPage;
+import com.xuecheng.framework.domain.cms.response.CmsCode;
 import com.xuecheng.framework.domain.cms.response.CmsPageResult;
+import com.xuecheng.framework.exception.ExceptionCast;
 import com.xuecheng.framework.model.request.QueryPageRequest;
 import com.xuecheng.framework.model.response.*;
 import com.xuecheng.Base.RequestPageable;
@@ -73,13 +75,13 @@ public class CmsPageImpl implements CmsPageService {
     public CmsPageResult saveCmsPage(CmsPage cmsPage) {
         //验证页面位于性页面名称页面id页面webpath
         CmsPage cmsPage1 = cmsPageRepostitory.findByPageNameAndSiteIdAndPageWebPath(cmsPage.getPageName(), cmsPage.getSiteId(), cmsPage.getPageWebPath());
-        if (cmsPage1 == null) {
-            cmsPage.setPageId(null);
-            CmsPage cmsPage2 = cmsPageRepostitory.save(cmsPage);
-            return new CmsPageResult(CommonCode.SUCCESS, cmsPage2);
+        if (cmsPage1 != null) {
+            ExceptionCast.cost(CmsCode.CMS_ADDPAGE_EXISTSNAME);
 
         }
-        return new CmsPageResult(CommonCode.UNSAVE, null);
+        cmsPage.setPageId(null);
+        CmsPage cmsPage2 = cmsPageRepostitory.save(cmsPage);
+        return new CmsPageResult(CommonCode.SUCCESS, cmsPage2);
     }
 
     @Override

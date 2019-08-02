@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 @EntityScan("com.xuecheng.framework.domain.cms")
 @ComponentScan("com.xuecheng.api")
-@ComponentScan
+@ComponentScan("com.xuecheng.framework.exception")
 public class MangeCmsApplication {
     public static void main(String args[]){
         SpringApplication.run(MangeCmsApplication.class,args);
