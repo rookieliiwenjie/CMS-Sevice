@@ -3,7 +3,6 @@ server:
 spring:
   application:
     name: xc-service-mange-cmss
-
   data:
     mongodb:
       host: 127.0.0.1

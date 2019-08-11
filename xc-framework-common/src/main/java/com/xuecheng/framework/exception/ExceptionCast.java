@@ -7,4 +7,5 @@ public class ExceptionCast {
     public static void cost(ResultCode resultCode) {
         throw new CmstomException(resultCode);
     }
+
 }
