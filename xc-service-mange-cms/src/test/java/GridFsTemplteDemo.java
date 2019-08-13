@@ -1,7 +1,10 @@
 import com.mongodb.client.gridfs.GridFSBucket;
 import com.mongodb.client.gridfs.GridFSDownloadStream;
 import com.mongodb.client.gridfs.model.GridFSFile;
+import com.xuecheng.framework.domain.cms.CmsPage;
 import com.xuecheng.mange_cms.MangeCmsApplication;
+import com.xuecheng.mange_cms.service.CmsPageService;
+import freemarker.template.TemplateException;
 import org.apache.commons.io.IOUtils;
 import org.bson.types.ObjectId;
 import org.junit.Test;
@@ -23,7 +26,8 @@ public class GridFsTemplteDemo {
     GridFsTemplate gridFsTemplate;
     @Autowired
     GridFSBucket gridFSBucket;
-
+    @Autowired
+    CmsPageService cmsPageService;
     @Test
     public void testTemplate() throws FileNotFoundException {
         File file = new File("c:/index_banner.ftl");
@@ -31,7 +35,12 @@ public class GridFsTemplteDemo {
         ObjectId objectId = gridFsTemplate.store(fileInputStream, "index_demo");
         System.out.println(objectId);
     }
-
+    @Test
+    public void htmlGe() throws IOException, TemplateException {
+        String id = "5a795ac7dd573c04508f3a56";
+        String html = cmsPageService.getPageId(id);
+        System.out.println(html);
+    }
     @Test
     public void downloadDemo() throws IOException {
         //根据id查询文件
@@ -40,7 +49,7 @@ public class GridFsTemplteDemo {
         GridFSDownloadStream gridFSDownloadStream = gridFSBucket.openDownloadStream(fsFile.getObjectId());
         //获取流对象
         GridFsResource gridFsResource = new GridFsResource(fsFile, gridFSDownloadStream);
-        FileOutputStream fileOutputStream = new FileOutputStream(new File("C://Users//lwj32//Desktop//indem.ftl"));
+        FileOutputStream fileOutputStream = new FileOutputStream(new File("C://Users//lwj32//Desktop//1.ftl"));
         fileOutputStream.write(IOUtils.toByteArray(gridFsResource.getInputStream()));
         fileOutputStream.close();
        /* String s = IOUtils.toString(gridFsResource.getInputStream(),"utf-8");
@@ -48,4 +57,5 @@ public class GridFsTemplteDemo {
 
 
     }
+
 }

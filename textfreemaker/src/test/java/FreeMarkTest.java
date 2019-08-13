@@ -7,9 +7,12 @@ import freemarker.template.TemplateException;
 import org.apache.commons.io.IOUtils;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.ui.freemarker.FreeMarkerTemplateUtils;
+import org.springframework.web.client.RestTemplate;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -26,6 +29,8 @@ import java.util.Map;
 @RunWith(SpringRunner.class)
 
 public class FreeMarkTest {
+    @Autowired
+    RestTemplate restTemplate;
     @Test
     public void testGenerateHtml() throws IOException, TemplateException {
         Configuration configuration = new Configuration(Configuration.getVersion());
@@ -70,5 +75,10 @@ public class FreeMarkTest {
         IOUtils.copy(inputStream,fileOutputStream);
         inputStream.close();
         fileOutputStream.close();
+    }
+    @Test
+    public void okHttpDemo(){
+        ResponseEntity<Map> entity = restTemplate.getForEntity("http://localhost:31001/cms/config/one/5a791725dd573c3574ee333f",Map.class);
+        System.out.println(entity.getBody().get("id"));
     }
 }

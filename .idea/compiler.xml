@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="test-rabbit-mq" />
+        <module name="testrabbitmq" />
+        <module name="testrabbitmqconsumer" />
         <module name="textfreemaker" />
         <module name="xc-framework-common" />
         <module name="xc-framework-model" />
@@ -15,6 +18,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="test-rabbit-mq" target="1.8" />
+      <module name="testrabbitmq" target="1.8" />
+      <module name="testrabbitmqconsumer" target="1.8" />
       <module name="textfreemaker" target="1.8" />
       <module name="xc-framework-common" target="1.8" />
       <module name="xc-framework-model" target="1.8" />
@@ -26,6 +32,9 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="test-rabbit-mq" options="-parameters" />
+      <module name="testrabbitmq" options="-parameters" />
+      <module name="testrabbitmqconsumer" options="-parameters" />
       <module name="textfreemaker" options="-parameters" />
       <module name="xc-framework-common" options="-parameters" />
       <module name="xc-framework-model" options="-parameters" />

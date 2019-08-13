@@ -10,11 +10,10 @@
         <option value="$PROJECT_DIR$/xc-service-api/pom.xml" />
         <option value="$PROJECT_DIR$/xc-service-mange-cms/pom.xml" />
         <option value="$PROJECT_DIR$/textfreemaker/pom.xml" />
+        <option value="$PROJECT_DIR$/testrabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/testrabbitmqconsumer/pom.xml" />
       </list>
     </option>
-  </component>
-  <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/textfreemaker/src/main/resources/templates/test.ftl" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

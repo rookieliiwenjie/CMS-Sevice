@@ -2,40 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef07fa6-f61f-4f80-8d99-4793465d93a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/textfreemaker/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/main/java/com/xuecheng/FreeMarkerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/main/java/com/xuecheng/test/freemaker/HttpClientDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/main/java/com/xuecheng/test/freemaker/controller/testController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/main/java/com/xuecheng/test/freemaker/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/main/resources/templates/index_banner.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/main/resources/templates/test1.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/test/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/test/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfreemaker/src/test/resources/templates/test1.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/api/CmsConfigControllerApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/config/MongoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/CmsConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/dao/CmsConfigRespostitory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/CmsConfigService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsConfiglmpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/test/java/GridFsTemplteDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/test/java/RestTemplteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCuserm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCuserm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailRouting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailRoutingError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmsRouting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmsTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmq/test-rabbit-mq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmqconsumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqPublish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqRouting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testrabbitmqconsumer/testrabbitmqconsumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/CmsPagePreviewController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCast.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/CommonCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/CommonCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/MangeCmsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/MangeCmsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textfreemaker/target/test-classes/FreeMarkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/textfreemaker/target/test-classes/FreeMarkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/PageSiteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/PageSiteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/CmsPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/CmsPageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsPageImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsPageImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/src/test/java/GridFsTemplteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/src/test/java/GridFsTemplteDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/com/xuecheng/mange_cms/MangeCmsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/com/xuecheng/mange_cms/MangeCmsApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/com/xuecheng/mange_cms/controller/PageSiteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/com/xuecheng/mange_cms/controller/PageSiteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/com/xuecheng/mange_cms/service/CmsPageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/com/xuecheng/mange_cms/service/CmsPageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/com/xuecheng/mange_cms/service/Impl/CmsPageImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/target/classes/com/xuecheng/mange_cms/service/Impl/CmsPageImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-mange-cms/target/test-classes/GridFsTemplteDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-mange-cms/target/test-classes/GridFsTemplteDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/xc-framework-parent/target/" />
     <ignored path="$PROJECT_DIR$/xc-framework-utils/target/" />
@@ -44,6 +46,8 @@
     <ignored path="$PROJECT_DIR$/xc-service-api/target/" />
     <ignored path="$PROJECT_DIR$/xc-service-mange-cms/target/" />
     <ignored path="$PROJECT_DIR$/textfreemaker/target/" />
+    <ignored path="$PROJECT_DIR$/testrabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/testrabbitmqconsumer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +56,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmsTopic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqHeader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/Channel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="681" column="88" selection-start-line="681" selection-start-column="87" selection-end-line="681" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailTopic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqTopic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="65" column="53" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/test/java/GridFsTemplteDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="313">
+              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,91 +117,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/data/spring-data-mongodb/2.0.6.RELEASE/spring-data-mongodb-2.0.6.RELEASE.jar!/org/springframework/data/mongodb/gridfs/GridFsTemplate.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2578">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="480">
+              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
               <folding>
-                <element signature="e#1657#1658#0" expanded="true" />
+                <element signature="e#2008#2009#0" expanded="true" />
+                <element signature="e#2074#2075#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestExecutionCallbacks.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2553">
-              <caret line="328" selection-start-line="328" selection-end-line="328" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/src.zip!/java/io/FileOutputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="311" column="16" selection-start-line="311" selection-start-column="16" selection-end-line="311" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/config/MongoConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/test/java/RestTemplteDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="18" column="136" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="136" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -168,9 +143,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Finchley.SR1&lt;</find>
-      <find>mongodb</find>
-      <find>spring-cloud-starter-feign</find>
       <find>cmspage</find>
       <find>cms_te</find>
       <find>‐</find>
@@ -194,6 +166,13 @@
       <find>&lt; class=&quot;banner-roll&quot;&gt;</find>
       <find>exampleMatcher</find>
       <find>dbis</find>
+      <find>CmstomException</find>
+      <find>free</find>
+      <find>inform.sms</find>
+      <find>email</find>
+      <find>QUEUEEMAIL</find>
+      <find>infrom</find>
+      <find>inform</find>
     </findStrings>
     <replaceStrings>
       <replace>-</replace>
@@ -205,32 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/test/java/DemoTest.java" />
-        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/request/QueryPageRequest.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/dao/CmsSiteRespostitor.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/CmsSiteService.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsSiteServicelmpl.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/PageSiteController.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/dao/CmsPageRepostitory.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/api/CmsTempletControllerApi.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/CmsTempletService.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/dao/CmsTempletRepostitory.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsPageTempletServicelmpl.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/CmsTempletConlltor.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/api/dd.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/api/forDemo.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/NiuKeDemo/dd.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/NiuKeDemo/forDemo.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/Swagger2Configuration.java" />
-        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/api/CmsPageControllerApi.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/CmsPageService.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/PageListController.java" />
-        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/CmstomException.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsPageImpl.java" />
-        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCast.java" />
-        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/CommonCode.java" />
-        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCatch.java" />
-        <option value="$PROJECT_DIR$/textfreemaker/src/main/java/com/xuecheng/test/freemaker/model/Student.java" />
         <option value="$PROJECT_DIR$/textfreemaker/src/main/resources/teamplate/test.ftl" />
         <option value="$PROJECT_DIR$/textfreemaker/src/main/resources/teamplate/index.ftl.html" />
         <option value="$PROJECT_DIR$/textfreemaker/src/main/resources/application.yml" />
@@ -252,16 +205,51 @@
         <option value="$PROJECT_DIR$/textfreemaker/src/main/java/com/xuecheng/test/freemaker/controller/testController.java" />
         <option value="$PROJECT_DIR$/textfreemaker/src/main/resources/templates/index_banner.ftl" />
         <option value="$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest1.java" />
-        <option value="$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest.java" />
-        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/config/MongoConfig.java" />
+        <option value="$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest.java" />
+        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/PageSiteController.java" />
+        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/CmsPageService.java" />
+        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsPageImpl.java" />
+        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/CmsPagePreviewController.java" />
         <option value="$PROJECT_DIR$/xc-service-mange-cms/src/test/java/GridFsTemplteDemo.java" />
+        <option value="$PROJECT_DIR$/testrabbitmqconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/testrabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCuserm2.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/DoubleDemo.java" />
+        <option value="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmq.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCuserm.java" />
+        <option value="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqPublish.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSms.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmsRoutinginfo.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmserror.java" />
+        <option value="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqRouting.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailRoutingError.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmail.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailRouting.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmsRouting.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/demo.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailTopic.java" />
+        <option value="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqTopic.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/StaticTest.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/Main.java" />
+        <option value="$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmsTopic.java" />
+        <option value="$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqHeader.java" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test-rabbit-mq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="test-rabbit-mq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="text.freemaker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -298,8 +286,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="797" />
-    <option name="y" value="61" />
+    <option name="x" value="-126" />
+    <option name="y" value="103" />
     <option name="width" value="1075" />
     <option name="height" value="1037" />
   </component>
@@ -322,97 +310,61 @@
             <path>
               <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
               <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
+              <item name="testrabbitmq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
               <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
+              <item name="testrabbitmq" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
               <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
+              <item name="testrabbitmq" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
+              <item name="testrabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
+              <item name="testrabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
               <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="testrabbitmqconsumer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
               <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
+              <item name="testrabbitmqconsumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
               <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
+              <item name="testrabbitmqconsumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
               <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
+              <item name="testrabbitmqconsumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="filesystem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-framework-model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="filesystem" type="462c0819:PsiDirectoryNode" />
-              <item name="response" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
@@ -424,120 +376,6 @@
               <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
               <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mange_cms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mange_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mange_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mange_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mange_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xuecheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mange_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="Impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xcEduService" type="462c0819:PsiDirectoryNode" />
-              <item name="xc-service-mange-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xcEduService" type="b2602c69:ProjectViewProjectNode" />
@@ -563,7 +401,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565507679079" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565712303547" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -576,11 +414,11 @@
       <recent name="com.xuecheng.mange_cms.service.Impl" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xcEduService" />
       <recent name="C:\xcEduService\textfreemaker\src\main\resources\templates" />
       <recent name="C:\xcEduService\textfreemaker\src\test" />
       <recent name="C:\xcEduService\textfreemaker\src\main\resources\teamplate" />
       <recent name="C:\xcEduService\textfreemaker\src\main\resources" />
-      <recent name="C:\xcEduService\xc-service-mange-cms\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -595,70 +433,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MangeCmsApplication">
-    <configuration name="FreeMarkerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuecheng.FreeMarkerApplication" />
-      <module name="textfreemaker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuecheng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="test-rabbit-mq" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MangeCmsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuecheng.mange_cms.MangeCmsApplication" />
-      <module name="xc-service-mange-cms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuecheng.Base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticTest" />
+      <module name="test-rabbit-mq" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GridFsTemplteDemo.downloadDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xc-service-mange-cms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GridFsTemplteDemo" />
-      <option name="METHOD_NAME" value="downloadDemo" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="rabbitMqCusermEmailTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rabbitMqCusermEmailTopic" />
+      <module name="test-rabbit-mq" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GridFsTemplteDemo.testTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xc-service-mange-cms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GridFsTemplteDemo" />
-      <option name="METHOD_NAME" value="testTemplate" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="rabbitMqCusermSmsTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rabbitMqCusermSmsTopic" />
+      <module name="test-rabbit-mq" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestTemplteDemo.testTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xc-service-mange-cms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestTemplteDemo" />
-      <option name="METHOD_NAME" value="testTemplate" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="rabbitmqTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rabbitmqTopic" />
+      <module name="testrabbitmqconsumer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MangeCmsApplication" />
-        <item itemvalue="JUnit.GridFsTemplteDemo.downloadDemo" />
-        <item itemvalue="JUnit.GridFsTemplteDemo.testTemplate" />
-        <item itemvalue="Application.FreeMarkerApplication" />
-        <item itemvalue="JUnit.RestTemplteDemo.testTemplate" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.rabbitMqCusermSmsTopic" />
+        <item itemvalue="Application.rabbitMqCusermEmailTopic" />
+        <item itemvalue="Application.rabbitmqTopic" />
+        <item itemvalue="Application.StaticTest" />
       </list>
     </recent_temporary>
   </component>
@@ -676,35 +493,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GridFsTemplteDemo_testTemplate - 2019.08.11 at 02h 40m 45s.xml">
-      <configuration name="GridFsTemplteDemo.testTemplate" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.11 at 23h 59m 46s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFsTemplteDemo_testTemplate - 2019.08.11 at 02h 43m 54s.xml">
-      <configuration name="GridFsTemplteDemo.testTemplate" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.12 at 00h 01m 19s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFsTemplteDemo_downloadDemo - 2019.08.11 at 03h 16m 21s.xml">
-      <configuration name="GridFsTemplteDemo.downloadDemo" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.12 at 00h 02m 21s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFsTemplteDemo_downloadDemo - 2019.08.11 at 03h 18m 26s.xml">
-      <configuration name="GridFsTemplteDemo.downloadDemo" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.12 at 00h 03m 01s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFsTemplteDemo_downloadDemo - 2019.08.11 at 03h 22m 27s.xml">
-      <configuration name="GridFsTemplteDemo.downloadDemo" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.12 at 00h 07m 00s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFsTemplteDemo_downloadDemo - 2019.08.11 at 03h 23m 24s.xml">
-      <configuration name="GridFsTemplteDemo.downloadDemo" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.12 at 00h 09m 12s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFsTemplteDemo_downloadDemo - 2019.08.11 at 14h 24m 42s.xml">
-      <configuration name="GridFsTemplteDemo.downloadDemo" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.12 at 00h 21m 24s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFsTemplteDemo_downloadDemo - 2019.08.11 at 14h 26m 08s.xml">
-      <configuration name="GridFsTemplteDemo.downloadDemo" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.12 at 00h 34m 37s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFsTemplteDemo_downloadDemo - 2019.08.11 at 14h 27m 25s.xml">
-      <configuration name="GridFsTemplteDemo.downloadDemo" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.12 at 00h 35m 05s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GridFsTemplteDemo_downloadDemo - 2019.08.11 at 14h 28m 17s.xml">
-      <configuration name="GridFsTemplteDemo.downloadDemo" configurationId="JUnit" />
+    <history-entry file="GridFsTemplteDemo_htmlGe - 2019.08.12 at 00h 48m 11s.xml">
+      <configuration name="GridFsTemplteDemo.htmlGe" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -720,7 +537,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25426438" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2510661" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -729,8 +546,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34056398" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4152824" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38503253" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4143167" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -747,34 +564,6 @@
       <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25479743" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34815618" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4067245" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31995663" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -805,7 +594,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest.java</url>
-          <line>30</line>
+          <line>35</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -823,87 +612,149 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/xc-service-mange-cms/src/test/java/GridFsTemplteDemo.java</url>
-          <line>28</line>
+          <line>32</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/xc-service-mange-cms/src/test/java/GridFsTemplteDemo.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="id" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/ResultCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResponseResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPageResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsConfig.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/util/CollectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/CommonCode.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/client/HttpMessageConverterExtractor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="346">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsPageTempletServicelmpl.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/util/DefaultUriBuilderFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="279">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="e#2315#2316#0" expanded="true" />
+            <element signature="e#2380#2381#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/api/CmsPageControllerApi.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/util/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/util/LinkedMultiValueMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#746#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="1293" selection-start-line="1293" selection-end-line="1293" />
+          <folding>
+            <element signature="e#21134#21135#0" expanded="true" />
+            <element signature="e#21194#21195#0" expanded="true" />
+            <element signature="e#49290#49291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/util/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="e#1609#1610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/util/UriComponentsBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="525" selection-start-line="525" selection-end-line="525" />
+          <folding>
+            <element signature="e#3005#3006#0" expanded="true" />
+            <element signature="e#3096#3097#0" expanded="true" />
+            <element signature="e#17406#17407#0" expanded="true" />
+            <element signature="e#17437#17438#0" expanded="true" />
+            <element signature="e#18934#18935#0" expanded="true" />
+            <element signature="e#18989#18990#0" expanded="true" />
+            <element signature="e#19078#19079#0" expanded="true" />
+            <element signature="e#20348#20349#0" expanded="true" />
+            <element signature="e#20404#20405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="397" selection-start-line="397" selection-end-line="397" />
+          <folding>
+            <element signature="e#7009#7010#0" expanded="true" />
+            <element signature="e#7054#7055#0" expanded="true" />
+            <element signature="e#8187#8188#0" expanded="true" />
+            <element signature="e#8233#8234#0" expanded="true" />
+            <element signature="e#35029#35030#0" expanded="true" />
+            <element signature="e#35085#35086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/data/spring-data-mongodb/2.0.6.RELEASE/spring-data-mongodb-2.0.6.RELEASE.jar!/org/springframework/data/mongodb/core/query/Criteria.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#1985#1986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textfreemaker/src/test/resources/templates/test1.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textfreemaker/src/test/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/web/BaseController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/Swagger2Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/api/CmsTempletControllerApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -914,236 +765,262 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/PageSiteController.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/CmsConfigController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="371">
+          <caret line="22" column="5" selection-start-line="18" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/PageListController.java">
+    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsPageImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        <state relative-caret-position="163">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmqconsumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="22" column="21" selection-start-line="19" selection-start-column="7" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.jar!/com/rabbitmq/client/Channel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="107" column="45" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/CmsPagePreviewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        <state relative-caret-position="153">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-common/pom.xml">
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/MangeCmsApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
+        <state relative-caret-position="194">
+          <caret line="956" column="18" selection-start-line="956" selection-start-column="18" selection-end-line="956" selection-end-column="18" />
           <folding>
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#36393#36394#0" expanded="true" />
+            <element signature="e#36459#36460#0" expanded="true" />
+            <element signature="e#78240#78241#0" expanded="true" />
+            <element signature="e#78299#78300#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textfreemaker/src/main/java/com/xuecheng/test/freemaker/HttpClientDemo.java">
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/DefaultConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="88" column="42" selection-start-line="85" selection-start-column="31" selection-end-line="88" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar!/ch/qos/logback/core/encoder/ByteArrayUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/DoubleDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/BuiltinExchangeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/encoder/ByteArrayUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCuserm2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCuserm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="215" column="25" selection-start-line="215" selection-start-column="14" selection-end-line="215" selection-end-column="25" />
+          <folding>
+            <element signature="e#8215#8216#0" expanded="true" />
+            <element signature="e#8261#8262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqPublish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmsRoutinginfo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmserror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqRouting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="69" column="53" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmsRouting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailRoutingError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailRouting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermEmailTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="65" column="53" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/test/java/GridFsTemplteDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/textfreemaker/src/main/resources/templates/test1.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/textfreemaker/src/main/java/com/xuecheng/FreeMarkerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="188" selection-start-line="188" selection-end-line="188" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsConfiglmpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/controller/CmsConfigController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/api/CmsConfigControllerApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/textfreemaker/src/main/resources/templates/index_banner.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/textfreemaker/src/main/java/com/xuecheng/test/freemaker/controller/testController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/test/java/DemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1027">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/textfreemaker/src/test/java/FreeMarkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="67" column="59" selection-start-line="67" selection-start-column="59" selection-end-line="67" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/response/UploadFileResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/FileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="366" column="11" selection-start-line="366" selection-start-column="11" selection-end-line="366" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/mongodb/mongo-java-driver/3.6.3/mongo-java-driver-3.6.3.jar!/org/bson/Document.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-          <folding>
-            <element signature="e#1016#1017#0" expanded="true" />
-            <element signature="e#1072#1073#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/data/spring-data-commons/2.0.6.RELEASE/spring-data-commons-2.0.6.RELEASE-sources.jar!/org/springframework/data/convert/EntityWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#950#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/data/spring-data-mongodb/2.0.6.RELEASE/spring-data-mongodb-2.0.6.RELEASE.jar!/org/springframework/data/mongodb/gridfs/GridFsTemplate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="74" column="31" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
+        <state relative-caret-position="480">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
           <folding>
             <element signature="e#2008#2009#0" expanded="true" />
             <element signature="e#2074#2075#0" expanded="true" />
@@ -1151,109 +1028,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/CmsConfigService.java">
+    <entry file="file://$PROJECT_DIR$/testrabbitmq/src/test/java/rabbitMqCusermSmsTopic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="200">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/CmsPageService.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/Channel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="172">
+          <caret line="681" column="88" selection-start-line="681" selection-start-column="87" selection-end-line="681" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/service/Impl/CmsPageImpl.java">
+    <entry file="file://$PROJECT_DIR$/testrabbitmqconsumer/src/test/java/rabbitmqHeader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="36" column="89" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/main/java/com/xuecheng/mange_cms/config/MongoConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/test/java/RestTemplteDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="136" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="136" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestExecutionCallbacks.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2553">
-          <caret line="328" selection-start-line="328" selection-end-line="328" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_202/src.zip!/java/io/FileOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="311" column="16" selection-start-line="311" selection-start-column="16" selection-end-line="311" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2578">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#1657#1658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xc-service-mange-cms/src/test/java/GridFsTemplteDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
         </state>
       </provider>
     </entry>
