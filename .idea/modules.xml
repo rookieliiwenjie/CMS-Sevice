@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/xc-framework-utils/xc-framework-utils.iml" filepath="$PROJECT_DIR$/xc-framework-utils/xc-framework-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/xc-service-api/xc-service-api.iml" filepath="$PROJECT_DIR$/xc-service-api/xc-service-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/xc-service-mange-cms/xc-service-mange-cms.iml" filepath="$PROJECT_DIR$/xc-service-mange-cms/xc-service-mange-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-service-mange-cms-client/xc-service-mange-cms-client.iml" filepath="$PROJECT_DIR$/xc-service-mange-cms-client/xc-service-mange-cms-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/xcEduService.iml" filepath="$PROJECT_DIR$/.idea/xcEduService.iml" />
     </modules>
   </component>

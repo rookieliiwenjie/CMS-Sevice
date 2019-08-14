@@ -1,0 +1,19 @@
+server:
+  port: 31000
+spring:
+  application:
+    name: xc-service-manage-cms-client
+  data:
+    mongodb:
+      host: 127.0.0.1
+      port: 27017
+      database: xc_cms
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    uesrname: guset
+    password: guest
+xuecheng:
+  mq:
+    queue: queue_cms_postpage_01 #cms客户端监控的队列名称不同客户端监控的队列不能重复
+    routingKey: 5a751fab6abb5044e0d19ea1 #这个routingkey为门户站点id

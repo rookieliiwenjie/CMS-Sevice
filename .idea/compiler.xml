@@ -15,6 +15,7 @@
         <module name="xc-framework-utils" />
         <module name="xc-service-api" />
         <module name="xc-service-mange-cms" />
+        <module name="xc-service-mange-cms-client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +29,7 @@
       <module name="xc-framework-utils" target="1.8" />
       <module name="xc-service-api" target="1.8" />
       <module name="xc-service-mange-cms" target="1.8" />
+      <module name="xc-service-mange-cms-client" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -41,6 +43,7 @@
       <module name="xc-framework-utils" options="-parameters" />
       <module name="xc-service-api" options="-parameters" />
       <module name="xc-service-mange-cms" options="-parameters" />
+      <module name="xc-service-mange-cms-client" options="-parameters" />
     </option>
   </component>
 </project>
